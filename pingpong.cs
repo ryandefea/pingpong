@@ -6,7 +6,7 @@ namespace PingPong
   {
     public static void Main()
     {
-      Console.WriteLine("Enter a number: ");
+      Console.WriteLine("Enter number: ");
       string stringNumber = Console.ReadLine();
       int number = int.Parse(stringNumber);
 
